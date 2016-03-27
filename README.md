@@ -21,15 +21,15 @@ Readlink
 ## stm32flash
 install some tools that `make` need:
 
-* ```
+```
 $ brew install autoconf
 ```
 
-* ```
+```
 $ brew install automake
 ```
 
-* ```
+```
 $ brew install pkg-config
 ```
 
@@ -40,6 +40,7 @@ $ git clone https://github.com/ARMinARM/stm32flash
 $ cd stm32flash
 $ make
 ```
+
 ## coreutils
 ```
 $ brew install coreutils
